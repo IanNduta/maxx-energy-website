@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+footer{
+    background-color: bisque;
+    margin-top: 100%;
+    margin-bottom: o;
+    padding: 5%;
+    border: 0;
+}
+header{
+    background-color: aqua;
+    padding: 5%;
+}
+main{
+    background-color: blue;
+}
+body{
+    background-color: black;
+}
